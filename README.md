@@ -1,4 +1,5 @@
-# blog_project
+Blog Project
+
 
 # This is blog site for single user
 
